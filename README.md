@@ -1,24 +1,15 @@
 Automation_Test
 ===============
-
-/*Sample Web driver Scripts for Automating Login and Logout from Gmail
-
-@author  Mahendra
-
-*/
+//Sample Web driver Scripts for Automating Login and Logout from Gmail
+//@author  Mahendra
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-
 public class Web_Driver {
 
-  /**
-	 * @param args
-	 * @throws InterruptedException 
-	 */
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
 
